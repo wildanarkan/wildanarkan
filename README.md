@@ -11,11 +11,11 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## 📊 Github Account:
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildanarkan&show_icons=true&locale=en&layout=compact" alt="wildanarkan" width="20%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildanarkan&show_icons=true&locale=en" alt="wildanarkan" width="26%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanarkan&" alt="wildanarkan" width="28%" />
-</div>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildanarkan&show_icons=true&locale=en&layout=compact" alt="wildanarkan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildanarkan&show_icons=true&locale=en" alt="wildanarkan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanarkan&" alt="wildanarkan" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wildanarkan) 
