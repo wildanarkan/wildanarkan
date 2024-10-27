@@ -33,7 +33,6 @@ Here's what powers my creations:
 </p>
 
 ## 🌐 Let's Connect!
-I love connecting with fellow developers, creators, and anyone who’s passionate about tech and innovation. Feel free to reach out and collaborate!
 
 <p align="center">
   <a href="https://instagram.com/wildanarkan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
