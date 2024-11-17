@@ -13,14 +13,13 @@
 ## 🧑‍💻 About Me
 I'm a **Mobile Developer** on a mission to bring ideas to life through clean, efficient, and user-friendly apps. Whether it’s building complex features or perfecting UI/UX, my goal is to turn problems into solutions. Passionate about **Flutter**, **Kotlin**, and **Firebase**, I’m always eager to learn and stay at the cutting edge of technology.
 
+## 🚀 My Digital Playground
+Here's what powers my creations:
 - 🌟 **Languages & Tools I Love Working With**:
     - Flutter & Dart: Crafting cross-platform magic ✨
     - Kotlin: Native Android 🤖
     - Firebase: Powering app functionalities 🔥
     - MySQL: Databases made easy 💾
-
-## 🚀 My Digital Playground
-Here's what powers my creations:
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=plastic&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white)
@@ -35,7 +34,7 @@ Here's what powers my creations:
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://instagram.com/wildanarkan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/wildandev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/wildanarkan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/wildanarkan"><img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
