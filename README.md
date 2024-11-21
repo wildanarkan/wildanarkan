@@ -14,8 +14,7 @@
 I'm a **Mobile Developer** on a mission to bring ideas to life through clean, efficient, and user-friendly apps. Whether it’s building complex features or perfecting UI/UX, my goal is to turn problems into solutions. Passionate about **Flutter**, **Kotlin**, and **Firebase**, I’m always eager to learn and stay at the cutting edge of technology.
 
 ## 🚀 My Digital Playground
-Here's what powers my creations:
-- 🌟 **Languages & Tools I Love Working With**:
+- 🌟 **Languages & Tools Working With**:
     - Flutter & Dart: Crafting cross-platform magic ✨
     - Kotlin: Native Android 🤖
     - Firebase: Powering app functionalities 🔥
